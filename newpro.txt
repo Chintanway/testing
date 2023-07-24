@@ -1,2 +1,1 @@
-one
-new
+new  main Ensure your repository is up-to-date: Before merging, it's a good practice to make sure your local repository is up-to-date with the remote repository. Use the following commands to fetch the latest changes from the remote and update your local branches:
